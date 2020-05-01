@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/tryCatch/bin/Debug/netcoreapp3.1/tryCatch.deps.json
+/Users/jlcomp45/workspace/csharp/tryCatch/bin/Debug/netcoreapp3.1/tryCatch.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/tryCatch/bin/Debug/netcoreapp3.1/tryCatch.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/tryCatch/bin/Debug/netcoreapp3.1/tryCatch.dll
+/Users/jlcomp45/workspace/csharp/tryCatch/bin/Debug/netcoreapp3.1/tryCatch.pdb
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.dll
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.pdb
+/Users/jlcomp45/workspace/csharp/tryCatch/obj/Debug/netcoreapp3.1/tryCatch.genruntimeconfig.cache
